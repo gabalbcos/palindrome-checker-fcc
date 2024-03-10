@@ -4,6 +4,10 @@ Technology used:
 
 Vanilla JavaScript, HTML and CSS
 
+Figma Link
+https://www.figma.com/file/SbKU7ML0AicWax4pRX7WDs/Palindrome-Checker?type=design&node-id=0-1&mode=design
+
+
 //Instructions
 
 Build a Palindrome Checker
