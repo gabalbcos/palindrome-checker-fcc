@@ -1,6 +1,6 @@
 const inputBox = document.getElementById('input-Text-To-Check');
 const resultText = document.getElementById('result-Text');
-const checkButton = document.getElementById('check-Button');
+const checkButton = document.getElementById('check-button');
 
 function checkPalindrome() {
   let wordToCheck = inputBox.value;  
